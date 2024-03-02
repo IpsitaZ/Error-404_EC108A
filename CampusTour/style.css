@@ -6,7 +6,7 @@
 
 body {
     background-image: url(images/aotcampus.jpg);
-    width: 100vw;
+    width: 100%;
     height: 100vh;
     background-size: cover;
     background-position: center;
@@ -14,7 +14,7 @@ body {
 }
 
 .main {
-    width: 100vw;
+    width: 100%;
     background: linear-gradient(to top, rgba(0, 0, 0, 0.5)50%, rgba(0, 0, 0, 0.5)50%);
     background-position: center;
     background-size: cover;
@@ -22,7 +22,7 @@ body {
 }
 
 .navbar {
-    width: 1200px;
+    width: 100%;
     height: 75px;
     margin: auto;
 }
@@ -111,7 +111,7 @@ ul li a {
 
 
 .content {
-    width: 1200px;
+    width: 100%;
     height: auto;
     margin: auto;
     color: #fff;
