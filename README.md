@@ -8,7 +8,9 @@ Welcome to the Academy of Technolgy's campus tour website presented by the team 
 Anik Mukherjee
 ## members
 Arka Karmakar
+<br>
 Debasmita Deb
+<br>
 Ipsita Nayek
 
 
