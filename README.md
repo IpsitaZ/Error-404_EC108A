@@ -1,24 +1,16 @@
-# ERROR:404 - EC108A
+# Academy of Technology Campus Tour Website
 
-#AOT Campus Tour Website
+Welcome to the Academy of Technolgy's campus tour website presented by the team Error-404 . On the top of the initial project given by the Devwrap team we have retouched the website using HTML and CSS . 
 
 
-## How to setup it on your device ?? 🤔
+# Error-404 members
+## Team leader
+Anik Mukherjee
+## members
+Arka Karmakar
+Debasmita Deb
+Ipsita Nayek
 
-### 🤞 Step 1
 
-Click on Fork and rename it as
 
-#### TeamName_ProjectID
-### 🤞 Step 2 
-Copy the https link from Code Section
-
-#### Open Command Prompt and type
-
-```http
-  cd desktop
-  git clone <https link>
-```
-Now the project is on your desktop now open it with your code editor
-now you are got to go for hacking !!
 
